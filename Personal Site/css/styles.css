@@ -1,0 +1,22 @@
+body {
+/* background-image: url('E:/Pictures/Camera Roll/khalid1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;*/
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: seagreen;
+}
+
+h3 {
+  color:#66BFBF;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width:5%;
+}

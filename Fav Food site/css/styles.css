@@ -1,0 +1,35 @@
+/************** TAG SELECTOR ***************/
+
+body{
+  background-color: powderblue;
+}
+
+h1{
+  color:blue;
+}
+
+h1:hover{
+  color: seagreen;
+}
+
+img{
+  background-color: powderblue;
+}
+
+
+/************* CLASS SELECTOR *****************/
+
+.stick-kabab{
+  height:400px;
+  width:500px;
+}
+
+.chicken-tandoori{
+  height:400px;
+  width:500px;
+}
+
+/**************** Id SELECTOR  ***************/
+#heading{
+  color:blue;
+}
